@@ -29,3 +29,4 @@
         4) Нет реактивности, надо самим если необходимо организовывать
 
  ### Как выглядит React Component
+  ![VDOM React!](images/components.jpg)
