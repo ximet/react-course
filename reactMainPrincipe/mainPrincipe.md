@@ -1,12 +1,12 @@
 #  Main Principle 
 
 ## План
- * VDOM
- * Reconciliation rules and keys
+ * VDOM адвансед
+ * Reconciliation rules and keys адвансед
  * LifeCycle
- * Наследование против Композиции
- * SetState несколько форм работы
- * HOC, function is a child component, context, refs
+ * Наследование против Композиции- Антон
+ * SetState несколько форм работы пример тула
+ * HOC, function is a child component, context, refs - Дима
 
  ### VDOM
  Виртуальный DOM (VDOM) — это концепция программирования, в которой идеальное или «виртуальное» представление пользовательского интерфейса хранится в памяти и синхронизируется с «настоящим» DOM при помощи библиотеки, такой как ReactDOM. Этот процесс называется согласованием.
