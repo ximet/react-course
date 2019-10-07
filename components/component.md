@@ -126,3 +126,11 @@ Cтоит обратить внимание на .isRequired - эти поля �
        message: 'Problem'
    };
  ```
+
+## HomeWork:
+
+### Advanced level:
+```
+  React.createElement('div', props, children)
+```
+
