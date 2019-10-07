@@ -8,7 +8,7 @@
 - [Функциональный подход](https://github.com/ximet/react-course/blob/master/functionalParadigm/functionalParadigm.md)
 - [FLUX, Redux] (2 занятия)
 - [patterns react]
-
+- [tools] immutableJS, routers, rambdaJS, forms
 
 ## Advanced:
 - [react elemnt]
