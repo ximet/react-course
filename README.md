@@ -11,8 +11,8 @@
 - [tools] immutableJS, routers, rambdaJS, forms
 
 ## Advanced:
-- [react elemnt]
-- [fiber]
-- [react principle source code]
-- [mobx & graphql]
+- [react element] How to create element, for what, how it works inside 
+- [fiber] - How it works? comparing process 
+- [react principle source code] - how works components and lifecycle method's 
+- [mobx & graphql] - another view 
 - [advanced patterns]
